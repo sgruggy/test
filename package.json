@@ -1,0 +1,19 @@
+{
+  "name": "restApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.13.9",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.14.11"
+  }
+}
